@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/ÇÉ¼¼.jar",
+  "spider": "./jar/XBPQ.jar",
   "wallpaper": "https://bing.img.run/uhd.php",
   "lives": [
     {
@@ -16,10 +16,11 @@
   ],
   "sites": [
     {
-      "key": "ÄÏ¹Ï",
-      "name": "ÄÏ¹Ï©§App",
+      "key": "å—ç“œ",
+      "name": "å—ç“œâ”ƒApp",
       "type": 3,
       "api": "csp_NanGua",
+      "jar": "./jar/å·§æŠ€.jar",
       "searchable": 1,
       "quickSearch": 1,
       "playerType": 2,
@@ -27,82 +28,92 @@
       "ext": ""
     },
     {
-      "key": "ÌìÌì",
-      "name": "ÌìÌì©§App",
+      "key": "å¤©å¤©",
+      "name": "å¤©å¤©â”ƒApp",
       "type": 3,
       "api": "csp_TTian",
+       "jar": "./jar/å·§æŠ€.jar",
       "playerType": 1,
       "ext": "baHR0cDovL29wLnlzZHFqcy5jbg=="
     },
     {
-      "key": "ÈÈ²¥",
-      "name": "ÈÈ²¥©§App",
+      "key": "çƒ­æ’­",
+      "name": "çƒ­æ’­â”ƒApp",
       "type": 3,
       "api": "csp_TTian",
+       "jar": "./jar/å·§æŠ€.jar",
       "playerType": 1,
       "ext": "caHR0cDovL3YucmJvdHYuY24="
     },
     {
-      "key": "×·¾ç",
-      "name": "×·¾ç©§App",
+      "key": "è¿½å‰§",
+      "name": "è¿½å‰§â”ƒApp",
       "type": 3,
       "api": "csp_TTian",
+       "jar": "./jar/å·§æŠ€.jar",
       "playerType": 1,
       "ext": "daHR0cDovL3oua3pqdHYuY29t"
     },
     {
-      "key": "ÀÖ¹Û",
-      "name": "ÀÖ¹Û©§App",
+      "key": "ä¹è§‚",
+      "name": "ä¹è§‚â”ƒApp",
       "type": 3,
       "api": "csp_Xdai",
+       "jar": "./jar/å·§æŠ€.jar",
       "playerType": 1,
       "ext": "caHR0cDovLzExMS4xODAuMTk4LjQwOjExMTB8NTU5MmViZWNmY2U3ODFiMXw1NTkyZWJlY2ZjZTc4MWIx"
     },
     {
-      "key": "Ë¼Ô´",
-      "name": "Ë¼Ô´©§App",
+      "key": "æ€æº",
+      "name": "æ€æºâ”ƒApp",
       "type": 3,
       "api": "csp_Xdai",
+       "jar": "./jar/å·§æŠ€.jar",
       "playerType": 1,
       "ext": "caHR0cDovLzguMjEwLjM0LjE0MzoxMTIyfHpodWl5aTg4ODg4NjY2NjZ8emh1aXlpODg4ODg2NjY2Ng=="
     },
     {
-      "key": "Ä¾Ò¶",
-      "name": "Ä¾Ò¶©§App",
+      "key": "æœ¨å¶",
+      "name": "æœ¨å¶â”ƒApp",
       "type": 3,
       "api": "csp_Frong",
+       "jar": "./jar/å·§æŠ€.jar",
       "playerType": 2,
       "ext": "cMS4wLjl8aHR0cDovLzExMy40NS4xMzUuMTAwOjYxMTB8NWNlOGJmYTB8MTAwOXw1Njg2ODU0MzRGRUM3QzhDMjkwQUU0RkIzMjVGRjEzMHxzaGlqaWVtYW90dnw3NjU0ODdmNmIzODY2ODI4"
     },
     {
-      "key": "·±ÈÙ",
-      "name": "·±ÈÙ©§App",
+      "key": "ç¹è£",
+      "name": "ç¹è£â”ƒApp",
       "type": 3,
       "api": "csp_Frong",
+       "jar": "./jar/å·§æŠ€.jar",
       "playerType": 1,
       "ext": "FMy4wLjJ8aHR0cDovLzQzLjI0OC4xMjguMTM4OjMzMTR8NDJmN2EyMDl8MjV8NTY4Njg1NDM0RkVDN0M4QzI5MEFFNEZCMzI1RkYxMzB8c2hpamllbWFvdHZ8MDllZTM1MTZjMWNhOGVkMQ=="
     },
     {
-      "key": "À×µç",
-      "name": "À×µç©§App",
+      "key": "é›·ç”µ",
+      "name": "é›·ç”µâ”ƒApp",
       "type": 3,
       "api": "csp_Slys",
+       "jar": "./jar/å·§æŠ€.jar",
       "playerType": 1,
       "ext": "caHR0cDovLzEyMC4yMjQuNy45MDo4MDg="
     },
     {
-      "key": "ÄûÃÊ",
-      "name": "ÄûÃÊ©§App",
+      "key": "æŸ æª¬",
+      "name": "æŸ æª¬â”ƒApp",
       "type": 3,
       "api": "csp_Nmvod",
+       "jar": "./jar/å·§æŠ€.jar",
       "playerType": 2,
       "ext": "eaHR0cHM6Ly9hcGkuY25tY29tLmNvbS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ=="
     },
     {
       "key": "AI2",
-      "name": "AI2©§½öËÑË÷",
+      "name": "AI2â”ƒä»…æœç´¢",
       "type": 3,
       "api": "csp_AI",
+       "jar": "./jar/å·§æŠ€.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -111,9 +122,10 @@
     },
     {
       "key": "AI3",
-      "name": "AI3©§½öËÑË÷",
+      "name": "AI3â”ƒä»…æœç´¢",
       "type": 3,
       "api": "csp_AI",
+       "jar": "./jar/å·§æŠ€.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -122,9 +134,10 @@
     },
     {
       "key": "AI4",
-      "name": "AI4©§APP",
+      "name": "AI4â”ƒAPP",
       "type": 3,
       "api": "csp_AppYsV2",
+       "jar": "./jar/å·§æŠ€.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -133,9 +146,10 @@
     },
     {
       "key": "JianPian",
-      "name": "¼öÆ¬[±ßÏÂ±ß²¥]",
+      "name": "èç‰‡[è¾¹ä¸‹è¾¹æ’­]",
       "type": 3,
       "api": "csp_JianPian",
+       "jar": "./jar/å·§æŠ€.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -144,15 +158,17 @@
     },
     {
       "key": "Dygang",
-      "name": "µçÓ°¸Û[±ßÏÂ±ß²¥]",
+      "name": "ç”µå½±æ¸¯[è¾¹ä¸‹è¾¹æ’­]",
       "type": 3,
       "api": "csp_Dygang"
+       "jar": "./jar/å·§æŠ€.jar",
     },
     {
-      "key": "ÂìÒÏ",
-      "name": "ÂìÒÏ©§App",
+      "key": "èš‚èš",
+      "name": "èš‚èšâ”ƒApp",
       "type": 3,
       "api": "csp_Mayiys",
+       "jar": "./jar/å·§æŠ€.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -161,9 +177,10 @@
     },
     {
       "key": "Lib",
-      "name": "Lib©§Ö±Á¬",
+      "name": "Libâ”ƒç›´è¿",
       "type": 3,
       "api": "csp_Lib",
+       "jar": "./jar/å·§æŠ€.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -171,8 +188,9 @@
     },
     {
       "key": "Bdys_spider",
-      "name": "ßÙµÎ©§ÎŞËÑË÷",
+      "name": "å“”æ»´â”ƒæ— æœç´¢",
       "api": "csp_Bdys01",
+       "jar": "./jar/å·§æŠ€.jar",
       "type": 3,
       "filterable": 1,
       "quickSearch": 1,
@@ -181,9 +199,10 @@
     },
     {
       "key": "NoSearch_csp_DiDuan",
-      "name": "µÍ¶Ë©§ÎŞËÑË÷",
+      "name": "ä½ç«¯â”ƒæ— æœç´¢",
       "type": 3,
       "api": "csp_Ddrk",
+       "jar": "./jar/å·§æŠ€.jar",
       "searchable": 1,
       "playerType": 1,
       "quickSearch": 1,
@@ -191,8 +210,9 @@
     },
     {
       "key": "sliu_spider",
-      "name": "Ê¯Áñ©§Ö±Á¬",
+      "name": "çŸ³æ¦´â”ƒç›´è¿",
       "api": "csp_ShiLiuDY",
+       "jar": "./jar/å·§æŠ€.jar",
       "type": 3,
       "filterable": 1,
       "playerType": 1,
@@ -201,10 +221,11 @@
       "ext": ""
     },
     {
-      "key": "¿ì¿´",
-      "name": "¿ì¿´©§Ö±Á¬",
+      "key": "å¿«çœ‹",
+      "name": "å¿«çœ‹â”ƒç›´è¿",
       "type": 3,
       "api": "csp_Kuaikan",
+       "jar": "./jar/å·§æŠ€.jar",
       "searchable": 1,
       "playerType": 1,
       "quickSearch": 1,
@@ -212,8 +233,9 @@
     },
     {
       "key": "360_spider",
-      "name": "360©§½âÎö",
+      "name": "360â”ƒè§£æ",
       "api": "csp_SP360",
+       "jar": "./jar/å·§æŠ€.jar",
       "type": 3,
       "filterable": 1,
       "quickSearch": 1,
@@ -223,8 +245,9 @@
     },
     {
       "key": "ZXZJ",
-      "name": "ÔÚÏß©§Ö±Á¬",
+      "name": "åœ¨çº¿â”ƒç›´è¿",
       "api": "csp_Zxzj",
+       "jar": "./jar/å·§æŠ€.jar",
       "type": 3,
       "filterable": 1,
       "quickSearch": 1,
@@ -234,9 +257,10 @@
     },
     {
       "key": "csp_CZSPP",
-      "name": "³§³¤©§Ö±Á¬",
+      "name": "å‚é•¿â”ƒç›´è¿",
       "type": 3,
       "api": "csp_Czsapp",
+       "jar": "./jar/å·§æŠ€.jar",
       "searchable": 1,
       "playerType": 1,
       "quickSearch": 1,
@@ -245,9 +269,10 @@
     },
     {
       "key": "csp_Auete",
-      "name": "Auete©§ÎŞËÑË÷",
+      "name": "Aueteâ”ƒæ— æœç´¢",
       "type": 3,
       "api": "csp_Auete",
+       "jar": "./jar/å·§æŠ€.jar",
       "searchable": 1,
       "playerType": 1,
       "quickSearch": 1,
@@ -255,9 +280,10 @@
     },
     {
       "key": "NoSearch_csp_BBB",
-      "name": "ßÙÁ¨ßÙÁ¨",
+      "name": "å“”å“©å“”å“©",
       "type": 3,
       "api": "csp_Bili",
+       "jar": "./jar/å·§æŠ€.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
@@ -265,7 +291,7 @@
     },
     {
       "key": "push_agent",
-      "name": "ÍÆËÍ",
+      "name": "æ¨é€",
       "type": 3,
       "api": "csp_PushAgent",
       "searchable": 0,
@@ -276,34 +302,34 @@
   ],
   "parses": [
     {
-      "name": "½âÎö¾ÛºÏ",
+      "name": "è§£æèšåˆ",
       "type": 3,
       "url": "Demo"
     },
     {
-      "name": "JsonÂÖÑ¯",
+      "name": "Jsonè½®è¯¢",
       "type": 2,
       "url": "Sequence"
     },
     {
-      "name": "ÇÉ¼¼",
+      "name": "å·§æŠ€",
       "type": 1,
       "url": "https://zy.qiaoji8.com/neibu.php?url=",
       "ext": {
         "flag": [
           "qq",
-          "ÌÚÑ¶",
+          "è…¾è®¯",
           "qiyi",
-          "°®ÆæÒÕ",
-          "ÆæÒÕ",
+          "çˆ±å¥‡è‰º",
+          "å¥‡è‰º",
           "youku",
-          "ÓÅ¿á",
+          "ä¼˜é…·",
           "sohu",
-          "ËÑºü",
+          "æœç‹",
           "letv",
-          "ÀÖÊÓ",
+          "ä¹è§†",
           "mgtv",
-          "Ã¢¹û",
+          "èŠ’æœ",
           "tnmb",
           "seven",
           "bilibili",
@@ -315,24 +341,24 @@
       }
     },
     {
-      "name": "ÇÉ¼¼¶ş",
+      "name": "å·§æŠ€äºŒ",
       "type": 1,
       "url": "https://zy.qiaoji8.com/gouzi.php?url=",
       "ext": {
         "flag": [
           "qq",
-          "ÌÚÑ¶",
+          "è…¾è®¯",
           "qiyi",
-          "°®ÆæÒÕ",
-          "ÆæÒÕ",
+          "çˆ±å¥‡è‰º",
+          "å¥‡è‰º",
           "youku",
-          "ÓÅ¿á",
+          "ä¼˜é…·",
           "sohu",
-          "ËÑºü",
+          "æœç‹",
           "letv",
-          "ÀÖÊÓ",
+          "ä¹è§†",
           "mgtv",
-          "Ã¢¹û",
+          "èŠ’æœ",
           "tnmb",
           "seven",
           "bilibili",
@@ -364,7 +390,7 @@
   ],
   "ijk": [
     {
-      "group": "Èí½âÂë",
+      "group": "è½¯è§£ç ",
       "options": [
         {
           "category": 4,
@@ -444,7 +470,7 @@
       ]
     },
     {
-      "group": "Ó²½âÂë",
+      "group": "ç¡¬è§£ç ",
       "options": [
         {
           "category": 4,
