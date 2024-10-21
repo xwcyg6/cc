@@ -1,9 +1,6 @@
 {
   "spider": "./jar/XBPQ.jar",
   "lives": [
-    {
-      "group": "redirect",
-      "channels": [
         {
           "name": "live",
           "urls": [
