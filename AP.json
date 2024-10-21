@@ -47,6 +47,13 @@
       "playerType": 1,
       "ext": "caHR0cDovLzEyMC4yMjQuNy45MDo4MDg="
     },
+    {
+      "key": "Dygang",
+      "name": "电影港[边下边播]",
+      "type": 3,
+      "api": "csp_Dygang"
+      "jar": "./jar/巧技.jar",
+    },
 {
       "key": "奈飞星球",
       "name": "🍎奈飞┃APP",
