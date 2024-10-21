@@ -8,18 +8,6 @@
       "api": "./dr_py/libs/drpy2.min.js",
       "ext": "./dr_py/js/drpy.js"
     },
-      {
-      "key": "JianPian",
-      "name": "荐片[边下边播]",
-      "type": 3,
-      "api": "csp_JianPian",
-      "jar": "./jar/巧技.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "playerType": 2,
-      "ext": "jianpian-android/365"
-    },
     {
       "key": "天天",
       "name": "天天┃App",
@@ -58,6 +46,58 @@
        "jar": "./jar/巧技.jar",
       "playerType": 1,
       "ext": "caHR0cDovLzEyMC4yMjQuNy45MDo4MDg="
+    },
+       {
+      "key": "柠檬",
+      "name": "柠檬┃App",
+      "type": 3,
+      "api": "csp_Nmvod",
+       "jar": "./jar/巧技.jar",
+      "playerType": 2,
+      "ext": "eaHR0cHM6Ly9hcGkuY25tY29tLmNvbS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ=="
+    },
+    {
+      "key": "木叶",
+      "name": "木叶┃App",
+      "type": 3,
+      "api": "csp_Frong",
+     "jar": "./jar/巧技.jar",
+      "playerType": 2,
+      "ext": "cMS4wLjl8aHR0cDovLzExMy40NS4xMzUuMTAwOjYxMTB8NWNlOGJmYTB8MTAwOXw1Njg2ODU0MzRGRUM3QzhDMjkwQUU0RkIzMjVGRjEzMHxzaGlqaWVtYW90dnw3NjU0ODdmNmIzODY2ODI4"
+    },
+    {
+      "key": "繁荣",
+      "name": "繁荣┃App",
+      "type": 3,
+      "api": "csp_Frong",
+       "jar": "./jar/巧技.jar",
+      "playerType": 1,
+      "ext": "FMy4wLjJ8aHR0cDovLzQzLjI0OC4xMjguMTM4OjMzMTR8NDJmN2EyMDl8MjV8NTY4Njg1NDM0RkVDN0M4QzI5MEFFNEZCMzI1RkYxMzB8c2hpamllbWFvdHZ8MDllZTM1MTZjMWNhOGVkMQ=="
+    },
+    {
+      "key": "乐观",
+      "name": "乐观┃App",
+      "type": 3,
+      "api": "csp_Xdai",
+      "jar": "./jar/巧技.jar",
+      "playerType": 1,
+      "ext": "caHR0cDovLzExMS4xODAuMTk4LjQwOjExMTB8NTU5MmViZWNmY2U3ODFiMXw1NTkyZWJlY2ZjZTc4MWIx"
+    },
+    {
+      "key": "思源",
+      "name": "思源┃App",
+      "type": 3,
+      "api": "csp_Xdai",
+        "jar": "./jar/巧技.jar",
+      "playerType": 1,
+      "ext": "caHR0cDovLzguMjEwLjM0LjE0MzoxMTIyfHpodWl5aTg4ODg4NjY2NjZ8emh1aXlpODg4ODg2NjY2Ng=="
+    },
+    {
+      "key": "Dygang",
+      "name": "电影港[边下边播]",
+      "type": 3,
+      "api": "csp_Dygang"
+   "jar": "./jar/巧技.jar",
     },
 {
       "key": "奈飞星球",
