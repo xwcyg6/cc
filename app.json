@@ -21,6 +21,29 @@
       "api": "./dr_py/libs/drpy2.min.js",
       "ext": "./dr_py/js/drpy.js"
     },
+          {
+      "key": "蜗牛影视",
+      "name": "🍎蜗牛┃蓝光",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "分类url": "https://wniutv.com/wnys/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+        "分类": "电视剧$dianshiju#电影$dianying#综艺$zongyi#动漫$dongman#纪录片$jilupian"
+      }
+    },
+     {
+      "key": "剧集",
+      "name": "🍎剧集影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {"搜索url": "https://wap.ijujitv.cc/search/-------------.html?wd=**",
+      "分类url": "https://wap.ijujitv.cc/show/{cateId}--------{catePg}---{year}.html",
+        "分类": "陆剧$6#日剧$2#美剧$3#泰剧$4#港剧$7#台剧$8#短剧$9"
+      }
+    },
     {
       "key": "南瓜",
       "name": "南瓜┃App",
