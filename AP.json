@@ -197,17 +197,6 @@
       "ext": "https://yanetflix.me/api.php/app/"
     },
     {
-      "key": "追剧兔",
-      "name": "🍎剧兔┃APP",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "jar": "./jar/dokilwss.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.zjtu.tv/api.php/app/"
-    },
-    {
       "key": "河狸影视",
       "name": "🍎河狸┃APP",
       "type": 3,
@@ -217,17 +206,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://www.heli888.cc/api.php/app/"
-    },
-    {
-      "key": "新感觉",
-      "name": "🍎新觉┃APP",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "jar": "./jar/dokilwss.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://ww.hanliu8.cn:9891/api.php/app/"
     },
     {
       "key": "CC影视",
@@ -252,17 +230,6 @@
       "ext": "https://www.xingyiying.com/api.php/v1.vod"
     },
     {
-      "key": "爱迪影院",
-      "name": "🍎爱迪┃APP",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "jar": "./jar/dokilwss.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://adys.tv/xgapp.php/v1/"
-    },
-    {
       "key": "影馆影视",
       "name": "🍎影馆┃APP",
       "type": 3,
@@ -272,39 +239,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://4kdyg.top/api.php/v1.vod"
-    },
-    {
-      "key": "银河影视",
-      "name": "🍎银河┃APP",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "jar": "./jar/dokilwss.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://134.175.219.46/mogai_api.php/v1.vod"
-    },
-    {
-      "key": "69美剧",
-      "name": "🍎美剧┃APP",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "jar": "./jar/dokilwss.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.69mj.com/xgapp.php/v2/"
-    },
-    {
-      "key": "大米星球",
-      "name": "🍎大米┃APP",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "jar": "./jar/dokilwss.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://dmxq.info/api.php/app/"
     },
      {
       "key": "酷咯影视",
@@ -513,7 +447,7 @@
       "name": "AI2┃仅搜索",
       "type": 3,
       "api": "csp_AI",
-       "jar": "./jar/巧技.jar",
+     "jar": "./jar/巧技.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -525,7 +459,7 @@
       "name": "AI3┃仅搜索",
       "type": 3,
       "api": "csp_AI",
-       "jar": "./jar/巧技.jar",
+     "jar": "./jar/巧技.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -537,7 +471,7 @@
       "name": "AI4┃APP",
       "type": 3,
       "api": "csp_AppYsV2",
-       "jar": "./jar/巧技.jar",
+      "jar": "./jar/巧技.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
