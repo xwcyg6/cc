@@ -13,7 +13,7 @@
       "name": "荐片[边下边播]",
       "type": 3,
       "api": "csp_JianPian",
-       "jar": "./jar/巧技.jar",
+      "jar": "./jar/巧技.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -25,7 +25,7 @@
       "name": "天天┃App",
       "type": 3,
       "api": "csp_TTian",
-       "jar": "./jar/巧技.jar",
+      "jar": "./jar/巧技.jar",
       "playerType": 1,
       "ext": "baHR0cDovL29wLnlzZHFqcy5jbg=="
     },
@@ -34,7 +34,7 @@
       "name": "热播┃App",
       "type": 3,
       "api": "csp_TTian",
-       "jar": "./jar/巧技.jar",
+        "jar": "./jar/巧技.jar",
       "playerType": 1,
       "ext": "caHR0cDovL3YucmJvdHYuY24="
     },
