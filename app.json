@@ -1,6 +1,5 @@
 {
   "spider": "./jar/XBPQ.jar",
-  "wallpaper": "https://bing.img.run/uhd.php",
   "lives": [
     {
       "group": "redirect",
@@ -15,6 +14,13 @@
     }
   ],
   "sites": [
+       {
+      "key": "drpy_js_豆瓣",
+      "name": "豆瓣[js]",
+      "type": 3,
+      "api": "./dr_py/libs/drpy2.min.js",
+      "ext": "./dr_py/js/drpy.js"
+    },
     {
       "key": "南瓜",
       "name": "南瓜┃App",
