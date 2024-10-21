@@ -1,15 +1,5 @@
 {
   "spider": "./jar/XBPQ.jar",
-  "lives": [
-        {
-          "name": "live",
-          "urls": [
-            "proxy://do=live&type=txt&ext="
-          ]
-        }
-      ]
-    }
-  ],
   "sites": [
        {
       "key": "drpy_js_豆瓣",
