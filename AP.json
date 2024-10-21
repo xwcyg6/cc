@@ -63,7 +63,7 @@
         "搜索副标题": "v-item-bottom\">&&</div>",
         "搜索链接": "href=\"&&\"",
         "线路数组": "可可影视提供&&<i[不包含:4K(高峰不卡)]",
-        "线路标题": "不卡+>&&</span",
+        "线路标题": "美妞+>&&</span",
         "播放数组": "episode-list\"&&</div",
         "播放列表": "<a&&/a",
         "播放标题": "不卡+>&&<",
@@ -556,36 +556,6 @@
       "name": "聚合2",
       "type": 3,
       "url": "Web"
-    },
-        {
-      "name": "蓝光",
-      "type": 1,
-      "url": "http://jk.xn--9hq.icu/jx/?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "tnmb",
-          "seven",
-          "bilibili",
-          "1905",
-          "NetFilx"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.9.1"
-        }
-      }
     },
       {
       "name": "巧技二",
