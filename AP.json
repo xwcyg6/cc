@@ -17,6 +17,133 @@
       "playerType": 1,
       "ext": "baHR0cDovL29wLnlzZHFqcy5jbg=="
     },
+        {
+      "key": "瓜子",
+      "name": "🍉瓜子",
+      "type": 3,
+      "api": "csp_Gz360",
+      "jar": "./jar/Yoursmile.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "农民",
+      "name": "👩‍🌾农民",
+      "type": 3,
+      "api": "csp_Nongm",
+        "jar": "./jar/Yoursmile.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "比特",
+      "name": "✌️比特",
+      "type": 3,
+      "api": "csp_Bttwo",
+       "jar": "./jar/Yoursmile.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_AppRZ",
+      "name": "🕵忍者",
+      "type": 3,
+      "playerType": "2",
+      "api": "csp_AppRZ",
+      "jar": "./jar/Yoursmile.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://rzys.xyz/"
+    },
+        {
+      "key": "csp_YCyz",
+      "name": "☀原创",
+      "type": 3,
+      "api": "csp_YCyz",
+      "jar": "./jar/Yoursmile.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "csp_SC1080",
+      "name": "⛪圣城",
+      "type": 3,
+      "api": "csp_SC1080",
+      "jar": "./jar/Yoursmile.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_DiDuan",
+      "name": "📺低端",
+      "type": 3,
+      "api": "csp_Ddrk",
+      "jar": "./jar/Yoursmile.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "csp_Kuaikan",
+      "name": "👀快看",
+      "type": 3,
+      "api": "csp_Kuaikan",
+      "jar": "./jar/Yoursmile.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_Zxzj",
+      "name": "🏚️在线",
+      "type": 3,
+      "api": "csp_Zxzj",
+      "jar": "./jar/Yoursmile.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.zxzjys.com/"
+    },
+        {
+      "key": "csp_SuBaiBai",
+      "name": "⛅️素白白",
+      "type": 3,
+      "api": "csp_SuBaiBai",
+      "jar": "./jar/Yoursmile.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_Tvyb",
+      "name": "☁️TVB云播",
+      "type": 3,
+      "api": "csp_Tvyb",
+      "jar": "./jar/Yoursmile.jar",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://www.tvyun01.com/"
+    },
+        {
+      "key": "csp_SixV",
+      "name": "🧲新6V",
+      "type": 3,
+      "api": "csp_SixV",
+      "jar": "./jar/Yoursmile.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://www.xb6v.com/"
+    },
     {
       "key": "热播",
       "name": "热播┃App",
