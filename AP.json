@@ -111,6 +111,59 @@
       "filterable": 1,
       "changeable": 1
     },
+      {
+      "key": "8号影院",
+      "name": "影视 | 8号影院",
+      "type": 3,
+       "api": "./dr_py/libs/drpy2.min.js",
+      "ext": "./dr_py/js/8号影院.js"
+    },
+        {
+      "key": "drpy_js_xb6v",
+      "name": "磁力 | 新版6v",
+      "type": 3,
+      "api": "./dr_py/libs/drpy2.min.js",
+      "ext": "./dr_py/js/xb6v.js",
+      "playerType": "1",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "timeout": 30
+    },
+          {
+      "key": "drpy_js_MP4US",
+      "name": "磁力 | MP4电影",
+      "type": 3,
+    "api": "./dr_py/libs/drpy2.min.js",
+      "ext": "./dr_py/js/mp4us.js",
+      "playerType": "1",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "timeout": 30
+    },
+    {
+      "key": "drpy_js_电影港",
+      "name": "磁力 | 电影港",
+      "type": 3,
+    "api": "./dr_py/libs/drpy2.min.js",
+      "ext": "./dr_py/js/dygang.js",
+      "playerType": "1",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "timeout": 30
+    },
+     {
+      "key": "drpy_js_ddys",
+      "name": "影视 | 低端影视",
+      "type": 3,
+      "api": "./dr_py/libs/drpy2.min.js",
+      "ext": "./dr_py/js/ddys.js",
+      "quickSearch": 1,
+      "changeable": 1,
+      "timeout": 30
+    },
     {
       "key": "csp_SC1080",
       "name": "⛪圣城",
