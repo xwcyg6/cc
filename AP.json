@@ -128,17 +128,12 @@
        "api": "./dr_py/libs/drpy2.min.js",
       "ext": "./dr_py/js/8号影院.js"
     },
-        {
+     {
       "key": "drpy_js_xb6v",
-      "name": "磁力 | 新版6v",
+     "name": "磁力 | 新版6v",
       "type": 3,
-      "api": "./dr_py/libs/drpy2.min.js",
-      "ext": "./dr_py/js/xb6v.js",
-      "playerType": "1",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "timeout": 30
+       "api": "./dr_py/libs/drpy2.min.js",
+        "ext": "./dr_py/js/xb6v.js",
     },
           {
       "key": "drpy_js_MP4US",
