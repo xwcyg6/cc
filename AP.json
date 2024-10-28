@@ -8,6 +8,14 @@
       "api": "./dr_py/libs/drpy2.min.js",
       "ext": "./dr_py/js/drpy.js"
     },
+     {
+      "key": "csp_yunbo",
+      "name": "☁彩云┃1080P",
+      "type": 3,
+      "api": "csp_Tvyb",
+      "jar": "https://raw.githubusercontent.com/xwcyg6/cc/refs/heads/main/小米0923.jar",
+      "playerType": 2
+    },
     {
       "key": "天天",
       "name": "天天┃App",
