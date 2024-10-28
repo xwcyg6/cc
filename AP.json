@@ -17,16 +17,6 @@
       "playerType": 1,
       "ext": "baHR0cDovL29wLnlzZHFqcy5jbg=="
     },
-        {
-      "key": "瓜子",
-      "name": "🍉瓜子",
-      "type": 3,
-      "api": "csp_Gz360",
-      "jar": "./jar/Yoursmile.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
     {
       "key": "农民",
       "name": "👩‍🌾农民",
