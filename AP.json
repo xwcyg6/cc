@@ -585,7 +585,31 @@
       "type": 3,
       "url": "Web"
     },
-      {
+     {
+      "name": "🌾星盛解析🌾",
+      "type": 1,
+      "url": "http://json.33191.com/home/api?type=ys&uid=3022385&key=dklmorvxABDKNOTW45&url="
+    },
+    {
+      "name": "Pro",
+      "type": 1,
+      "url": "http://api.vip123kan.vip/?url=",
+      "ext": {
+        "flag": [
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "qq",
+          "奇艺"
+        ]
+      }
+    },
+        {
       "name": "巧技二",
       "type": 1,
       "url": "https://zy.qiaoji8.com/gouzi.php?url=",
@@ -614,64 +638,6 @@
           "User-Agent": "okhttp/4.9.1"
         }
       }
-    },
-        {
-      "name": "虾米",
-      "type": 0,
-      "url": "https://jx.xmflv.com/?url=",
-      "ext": {
-        "header": {
-          "user-agent": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/110.0.0.0Safari/537.36Edg/110.0.1587.57"
-        }
-      }
-    },
-    {
-      "name": "嗅探1",
-      "type": 0,
-      "url": "http://110.42.66.7:1122/XGJ/xgjjson.php?url="
-    },
-    {
-      "name": "嗅探最新",
-      "type": 1,
-      "url": "http://xiutan.shiyifacai.com/json/qingfeng.php?url=",
-      "ext": {
-        "flag": [
-          "seven"
-        ],
-        "header": {
-          "User-Agent": "Lavf/58.12.100"
-        }
-      }
-    },
-    {
-      "name": "嗅探",
-      "type": 0,
-      "url": "https://jx.haokantv.cyou/player/?url="
-    },
-    {
-      "name": "嗅探一",
-      "type": 0,
-      "url": "http://bfqjc.xwyxpw.cn/?url="
-    },
-    {
-      "name": "嗅探二",
-      "type": 0,
-      "url": "https://jx.jsonplayer.com/player/?url="
-    },
-    {
-      "name": "嗅探三",
-      "type": 0,
-      "url": "https://jx.bozrc.com:4433/player/?url="
-    },
-    {
-      "name": "嗅探四",
-      "type": 0,
-      "url": "https://jx.777jiexi.com/player/?url="
-    },
-    {
-      "name": "嗅探五",
-      "type": 0,
-      "url": "https://jx.xmflv.com/?url="
     }
   ],
   "rules": [
