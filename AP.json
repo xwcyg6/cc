@@ -13,8 +13,8 @@
       "name": "☁彩云┃1080P",
       "type": 3,
       "api": "csp_Tvyb",
-      "jar": "./jar/小米0923.jar",
       "playerType": 2
+      "jar": "./jar/小米0923.jar",
     },
     {
       "key": "天天",
