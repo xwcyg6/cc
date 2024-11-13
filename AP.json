@@ -9,6 +9,34 @@
       "ext": "./dr_py/js/drpy.js"
     },
     {
+      "key": "drpy_js_奇珍异兽",
+      "name": "奇珍异兽[js]",
+      "type": 3,
+      "api": "./dr_py/libs/drpy2.min.js",
+      "ext": "./dr_py/js/奇珍异兽.js"
+    },
+    {
+      "key": "drpy_js_优酷",
+      "name": "优酷[js]",
+      "type": 3,
+      "api": "./dr_py/libs/drpy2.min.js",
+      "ext": "./dr_py/js/优酷.js"
+    },
+    {
+      "key": "drpy_js_腾云驾雾",
+      "name": "腾云驾雾[js]",
+      "type": 3,
+      "api": "./dr_py/libs/drpy2.min.js",
+      "ext": "./dr_py/js/腾云驾雾.js"
+    },
+    {
+      "key": "drpy_js_百忙无果",
+      "name": "百忙无果[js]",
+      "type": 3,
+      "api": "./dr_py/libs/drpy2.min.js",
+      "ext": "./dr_py/js/百忙无果.js"
+    },
+    {
       "key": "天天",
       "name": "天天┃App",
       "type": 3,
@@ -552,10 +580,87 @@
       "type": 3,
       "url": "Demo"
     },
+ {
+      "name": "🌾星盛解析🌾",
+      "type": 1,
+      "url": "http://json.33191.com/home/api?type=ys&uid=3022385&key=dklmorvxABDKNOTW45&url="
+    },
     {
-      "name": "聚合2",
-      "type": 3,
-      "url": "Web"
+      "name": "Pro",
+      "type": 1,
+      "url": "http://api.vip123kan.vip/?url=",
+      "ext": {
+        "flag": [
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "qq",
+          "奇艺"
+        ]
+      }
+    },
+        {
+      "name": "1080解析1",
+      "type": 1,
+      "url": "https://zy.qiaoji8.com/neibu.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "bilibili",
+          "1905"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
+    },
+    {
+      "name": "1080解析",
+      "type": 1,
+      "url": "http://117.50.183.202:8036/?ip=111.55.12.236&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "bilibili",
+          "1905"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
     },
      {
       "name": "巧技二",
