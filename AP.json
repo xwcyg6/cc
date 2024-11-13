@@ -575,47 +575,10 @@
       "type": 1,
       "url": "http://json.33191.com/home/api?type=ys&uid=3022385&key=dklmorvxABDKNOTW45&url="
     },
-           {
-      "name": "公众号：不卡",
+   {
+      "name": "黑虎斑",
       "type": 1,
-      "url": "http://jk.xn--9hq.icu/jx/?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "tnmb",
-          "seven",
-          "bilibili",
-          "1905",
-          "NetFilx"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.9.1"
-        }
-      }
-    },
-    {
-      "name": "芒果专属",
-      "type": 1,
-      "url": "http://jk.xn--9hq.icu/jx/mg.php?url=",
-      "ext": {
-        "flag": [
-          "mgtv",
-          "芒果"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.9.1"
-        }
-      }
+      "url": " https://jxjson.icu/neibu.php?url="
     },
     {
       "name": "Pro",
