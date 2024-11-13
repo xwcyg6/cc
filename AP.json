@@ -55,16 +55,6 @@
       "quickSearch": 1,
       "filterable": 1
     },
-          {
-      "key": "瓜子",
-      "name": "🍉瓜子",
-      "type": 3,
-      "api": "csp_Gz360",
-      "jar": "./jar/Yoursmile.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
         {
       "key": "可可影视",
       "name": "可可┃影视",
