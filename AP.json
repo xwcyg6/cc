@@ -271,7 +271,6 @@
       "name": "看戏网",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./xyqxbpq.jar",
       "ext": {
       "请求头": "User-Agent$MOBILE_UA",
        "编码": "UTF-8",
